@@ -1,0 +1,11 @@
+/Users/Heidi/workspace/CSharpDemos/LinqIntro/bin/Debug/netcoreapp3.0/LinqIntro
+/Users/Heidi/workspace/CSharpDemos/LinqIntro/bin/Debug/netcoreapp3.0/LinqIntro.deps.json
+/Users/Heidi/workspace/CSharpDemos/LinqIntro/bin/Debug/netcoreapp3.0/LinqIntro.runtimeconfig.json
+/Users/Heidi/workspace/CSharpDemos/LinqIntro/bin/Debug/netcoreapp3.0/LinqIntro.runtimeconfig.dev.json
+/Users/Heidi/workspace/CSharpDemos/LinqIntro/bin/Debug/netcoreapp3.0/LinqIntro.dll
+/Users/Heidi/workspace/CSharpDemos/LinqIntro/bin/Debug/netcoreapp3.0/LinqIntro.pdb
+/Users/Heidi/workspace/CSharpDemos/LinqIntro/obj/Debug/netcoreapp3.0/LinqIntro.csprojAssemblyReference.cache
+/Users/Heidi/workspace/CSharpDemos/LinqIntro/obj/Debug/netcoreapp3.0/LinqIntro.AssemblyInfoInputs.cache
+/Users/Heidi/workspace/CSharpDemos/LinqIntro/obj/Debug/netcoreapp3.0/LinqIntro.AssemblyInfo.cs
+/Users/Heidi/workspace/CSharpDemos/LinqIntro/obj/Debug/netcoreapp3.0/LinqIntro.dll
+/Users/Heidi/workspace/CSharpDemos/LinqIntro/obj/Debug/netcoreapp3.0/LinqIntro.pdb
